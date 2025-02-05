@@ -1,6 +1,5 @@
 # UrduSutra: The Roman Poetry Weaver
 <a name="readme-top"></a>
-## UrduSutra
 <p>UrduSutra is an advanced deep learning-driven poetry generation model designed to create Roman Urdu poetry using a character-level Recurrent Neural Network (LSTM). Leveraging a carefully curated dataset of Roman Urdu verses, the model learns linguistic patterns and poetic structures to generate expressive and contextually relevant poetry based on user-provided prompts. With a focus on preserving the artistic essence of Urdu poetry, **UrduSutra** seamlessly blends traditional literary styles with modern AI capabilities, making it a powerful tool for poetry enthusiasts, researchers, and creative AI applications.</p>
 
 
